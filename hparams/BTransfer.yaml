@@ -1,0 +1,3 @@
+# BTransfer Transfer Method Configuration
+fisher_sample_size: 5000
+fisher_batch_size: 16
