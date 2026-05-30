@@ -1,6 +1,8 @@
 # Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations
 
-This repository provides the implementations for **Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations**. This paper formalizes reusable task-update factors for finetuning transfer and establishes structural existence results, motivating BTransfer as an effective method for reusing fine-tuning knowledge across models without retraining.
+This repository provides the official implementation for **Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations**, accepted as a paper at **ICML 2026**.
+
+The paper formalizes reusable task-update factors for fine-tuning transfer and establishes structural existence results, motivating **BTransfer** as an effective method for reusing fine-tuning knowledge across models without re-training.
 
 ## 1. Environment Setup
 
@@ -72,3 +74,17 @@ This project builds upon the following open-source repositories. We sincerely th
 - [LLM-BFF](https://github.com/princeton-nlp/LM-BFF)
 - [Skill-Localization-by-grafting](https://github.com/abhishekpanigrahi1996/Skill-Localization-by-grafting.git)
 - [Localize-and-Stitch](https://github.com/uiuctml/Localize-and-Stitch.git)
+
+## Citation
+
+If you find this repository or our work useful, please cite:
+
+```bibtex
+@inproceedings{
+guo2026finetune,
+title={Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations},
+author={Siyang Guo and Junbo Wang and Zibin Zheng},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=iLS4oNpEQ1}
+}
