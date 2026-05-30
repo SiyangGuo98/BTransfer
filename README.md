@@ -80,11 +80,11 @@ This project builds upon the following open-source repositories. We sincerely th
 If you find this repository or our work useful, please cite:
 
 ```bibtex
-@inproceedings{
-guo2026finetune,
-title={Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations},
-author={Siyang Guo and Junbo Wang and Zibin Zheng},
-booktitle={Forty-third International Conference on Machine Learning},
-year={2026},
-url={https://openreview.net/forum?id=iLS4oNpEQ1}
+@inproceedings{guo2026finetune,
+  title={Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations},
+  author={Guo, Siyang and Wang, Junbo and Zheng, Zibin},
+  booktitle={Proceedings of the Forty-third International Conference on Machine Learning},
+  year={2026},
+  url={https://openreview.net/forum?id=iLS4oNpEQ1}
 }
+```
